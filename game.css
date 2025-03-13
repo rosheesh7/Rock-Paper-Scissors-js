@@ -1,0 +1,80 @@
+body{
+  background-color: rgb(25,25,25);
+  color: white;
+  font-family: Arial;
+  transition: 1s;
+}
+.title{
+  font-size: 30px;
+  font-weight: bold;
+}
+.move-image{
+  height: 70px; 
+}
+.move-button{
+  background-color: transparent;
+  border: 3px solid white ;
+  border-radius: 100px;
+  padding: 30px;
+  margin: 10px;
+  cursor: pointer;
+}
+.move{ 
+  margin-top: 50px;
+  font-size: 15px;
+}
+.result{
+  margin-top: 30px;
+  font-size: 30px;
+  font-weight: bolder;
+}
+.score{
+  margin-top: 30px;
+  font-size: 20px;
+}
+
+.reset-score-button,
+.auto-play-button,
+.confirm-message-button,
+.light-mode-button{
+  background-color: white;;
+  border: none;
+  border-radius: 5px;
+  font-size: 18px;
+  padding: 8px 15px;
+  cursor: pointer;
+
+}
+
+.game{
+  align-items: center;
+}
+
+.confirm-message{
+ 
+  margin-top: 20px;
+  padding:10px;
+}
+
+body.isLight{
+  background-color: white;
+  color: black;
+  transition: 1s;
+}
+
+body.isLight button{
+  background-color: white;
+  border-color: black;
+  transition: 1s;
+
+}
+
+body.isLight .reset-score-button,
+body.isLight .auto-play-button,
+body.isLight .light-mode-button,
+body.isLight .confirm-message-button{
+background-color: black;
+color:white;
+transition: 1s;
+}
+
