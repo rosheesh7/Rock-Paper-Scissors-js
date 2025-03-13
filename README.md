@@ -38,8 +38,6 @@ This is a simple Rock Paper Scissors game built using HTML, CSS, and JavaScript.
 ### Dark Mode:
 ![Dark Mode](./images/dark-mode.png)
 
-### Light Mode:
-![Light Mode](./images/Light-mode.png)
 
 ## Future Improvements
 - Add sound effects for move selections.
