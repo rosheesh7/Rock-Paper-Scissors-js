@@ -36,7 +36,7 @@ This is a simple Rock Paper Scissors game built using HTML, CSS, and JavaScript.
 
 ## Screenshots
 ### Dark Mode:
-![Dark Mode](./images/Light-mode.png)
+![Dark Mode](./images/dark-mode.png)
 
 ### Light Mode:
 ![Light Mode](./images/Light-mode.png)
