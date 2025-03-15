@@ -48,4 +48,4 @@ This is a simple Rock Paper Scissors game built using HTML, CSS, and JavaScript.
 - Add animations to enhance user experience.
 
 ## Author
-**[Rosis Sharma]** - [GitHub Profile](https://github.com/rosheesh7)
+**[Rosis Sharma]** - [My GitHub Profile](https://github.com/rosheesh7)
